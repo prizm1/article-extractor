@@ -28,6 +28,6 @@
     "request": "^2.53.0"
   },
   "devDependencies": {
-    "restify": "^3.0.1"
+    "restify": "^8.5.1"
   }
 }
